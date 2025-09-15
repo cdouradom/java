@@ -24,7 +24,7 @@ public class Calculadora {
 		System.out.printf("O valor da subtração é = %.2f%n", numero1 - numero2);
 		System.out.printf("O valor da multiplicação é = %.2f\n", numero1 * numero2);
 		System.out.printf("O valor da divisão é = %.2f%n", numero1 / numero2);
-			// para usar essa formtação posso usar o \n 'ou' %n874
+			// para usar essa formtação posso usar o \n 'ou' %n
 		
 		// Função com método de potência - usando a classe math
 		System.out.printf("A potência do número %.2f = %.2f\n", numero1, Math.pow(numero1, numero2));

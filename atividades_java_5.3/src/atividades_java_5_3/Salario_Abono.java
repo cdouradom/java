@@ -1,8 +1,8 @@
-package atividades;
+package atividades_java_5_3;
 
 import java.util.Scanner;
 
-public class Soma {
+public class Salario_Abono {
 
 	public static void main(String[] args) {
 		
