@@ -58,11 +58,13 @@ public class Horoscopo {
 			break;
 		case 12:System.out.println("Peixes: Confie na intuição, mas mantenha os pés no chão; atenção aos detalhes evitará confusões.");
 			break;
+        default: System.out.println("Código inválido! Digite um número entre 1 e 6.");
+        
+        leia.close();
+            return; // encerra o programa
 		 }
 		
 		leia.close();
-
 	}
-
 }
 

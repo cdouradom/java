@@ -1,7 +1,10 @@
 package atividades_java_6_2;
+
 import java.util.Scanner; // importando a classe Scanner para capturar entrada do teclado
+
 public class Atividade5 {
-    public static void main(String[] args) {   
+
+	public static void main(String[] args) {   
 		// criando um objeto Scanner para ler dados digitados pelo usuário        
     	Scanner leia = new Scanner(System.in);       
         int codigo, quantidade;
