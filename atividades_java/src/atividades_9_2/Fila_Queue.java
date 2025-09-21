@@ -9,7 +9,7 @@ public class Fila_Queue {
 
 		Scanner leia = new Scanner(System.in);
 		
-		//criando a fila de clientes com regra fifo, onde o primeiro que entra é o primeiro que sai)
+		//criando a fila de clientes com regra fifo, onde o primeiro que entra eh o primeiro que sai)
 		Queue<String> fila = new LinkedList<>(); 
 
 		int opcao; //variavel para armazenar a escolha do menu

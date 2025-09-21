@@ -8,8 +8,7 @@ public class Fila_Stack {
 
 		Scanner leia = new Scanner(System.in);
 
-		// criando a fila de clientes com regra lifo, onde o ultimo que entra eh o
-		// primeiro que sai)
+		// criando a fila de clientes com regra lifo, onde o ultimo que entra eh o primeiro que sai)
 		Stack<String> pilha = new Stack<>();
 
 		int opcao; // variavel para armazenar a escolha do menu
